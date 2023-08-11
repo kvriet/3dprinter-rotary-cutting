@@ -5,4 +5,7 @@ This project adds rotary cutting capabilities to an existing Ender 3 Pro configu
 
 ## Rotary cutter holder
 The rotary cutter used here is the Roland Cricut cutting plotter: https://www.aliexpress.com/item/32768955648.html
-The holder for the 
+
+The holder for the cutter can be 3D printed in PLA without using supports. A layer thickness of 0.2 or 0.3mm will work.
+
+
