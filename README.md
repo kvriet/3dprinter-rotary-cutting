@@ -16,6 +16,19 @@ In terms of hardware, you will also need:
 - 2x M2 nut for use with the clamp bolts
 - 1x M3x8 to secure the vinyl cutter to the Ender
 
+## Printed vinyl cutter assembly
+![Print 1](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-1.png?raw=true)
+
+![Print 2](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-2.png?raw=true)
+
+![Print 3](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-3.png?raw=true)
+
+![Print 4](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-4.png?raw=true)
+
+![Print 5](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-5.png?raw=true)
+
+![Print 6](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-6.png?raw=true)
+
 ## Some example circuits cut with this setup
 ![Example circuit 1](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/example%20circuits-1.png?raw=true)
 
