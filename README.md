@@ -2,9 +2,12 @@
 A 3D printer add-on to enable rotary cutting (vinyl/tape cutting) for PCB creation or otherwise.
 
 ## Table of contents
-1. [Materials](#materials)
-2. [Assembly](#assembly)
-3. [Examples](#examples)
+1. [The Project](#project)
+2. [Materials](#materials)
+3. [Assembly](#assembly)
+4. [Examples](#examples)
+
+## The project <a name="project"></a>
 
 ![Rotary cutter mounted onto 3D-printer](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/cutter%20on%20machine-1%20small.png?raw=true)
 ![Rotary cutter in action](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/cutting%20copper.gif?raw=true)
