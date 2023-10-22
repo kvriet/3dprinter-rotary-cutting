@@ -12,7 +12,7 @@ A 3D printer add-on to enable rotary cutting (vinyl/tape cutting) for PCB creati
 ![Rotary cutter mounted onto 3D-printer](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/cutter%20on%20machine-1%20small.png?raw=true)
 ![Rotary cutter in action](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/cutting%20copper.gif?raw=true)
 
-This project adds rotary cutting capabilities to an existing Ender 3 Pro configuration, but can be attached to other printers too. In the future, I will include in this project a detailed, step-by-step manual on how to cut copper tape for PCB fabrication using sheets of acrylic.
+This project adds rotary cutting capabilities to an existing Ender 3 Pro configuration, but can be attached to other printers too. This add-on will not interfere with the end stops on the Ender and can be left on while printing normally (but maybe retract the knife while printing). In the future, I will include in this project a detailed, step-by-step manual on how to cut copper tape for PCB fabrication using sheets of acrylic.
 
 ## How to make the rotary cutter holder <a name="materials"></a>
 The rotary cutter used here is the Roland Cricut cutting plotter: https://www.aliexpress.com/item/32768955648.html
@@ -24,7 +24,7 @@ In terms of hardware, you will also need:
 - 2x M2 nut for use with the clamp bolts
 - 1x M3x8 to secure the vinyl cutter to the Ender
 
-## Printed vinyl cutter assembly <a name="assembly"></a>
+## Printed rotary cutter assembly <a name="assembly"></a>
 ![Print 1](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-1.png?raw=true)
 
 ![Print 2](https://github.com/kvriet/3dprinter-rotary-cutting/blob/main/Media/rotary%20cutter%20print-2.png?raw=true)
