@@ -50,7 +50,7 @@ In terms of hardware, you will also need:
 
 ### KiCad <a name="kicad"></a>
 
-I design my circuits in KiCad (version 6.0), creating a schematic and then a footprint in the PCB Editor environment. Important for rotary cutting is to minimise the number of sharp corners that the knife has to follow. To create smooth lines, I use the 'fillet tracks' option in KiCad 6.0 with a 3mm fillet radius, but adjust to your own taste. I adjust the width of my tracks depending on whether I'm cutting a sticker or tape already applied to acrylic. For stickers, I use 2mm wide tracks as this prevents them from tearing accidentally, or curling up too much on a sticker sheet. For copper tape already applied to the acrylic, the tracks can be 1mm or 0.5mm wide.
+I design my circuits in KiCad (version 6.0), creating a schematic and then a footprint in the PCB Editor environment. Important for rotary cutting is to minimise the number of sharp corners that the knife has to follow. To create smooth lines, I use the 'fillet tracks' option in KiCad 6.0 with a 3mm fillet radius, but adjust to your own taste. To make tracks smoothly flow into pads, the teardrop plugin can be used, although I have not tried this. I adjust the width of my tracks depending on whether I'm cutting a sticker or tape already applied to acrylic. For stickers, I use 2mm wide tracks as this prevents them from tearing accidentally, or curling up too much on a sticker sheet. For copper tape already applied to the acrylic, the tracks can be 1mm or 0.5mm wide.
 
 ### From KiCad to gcode <a name="gcode_creation"></a>
 
